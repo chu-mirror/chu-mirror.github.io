@@ -8,7 +8,7 @@ categories: style
 In the past years, I've tried several Linux distributions. Starting from Ubuntu, to Arch Linux,
 to Slackware, at last I settle down on Debian. Despite all distributions has its own advantages,
 Debian might be the best choice for me.
-This blog explains the reason and gives a comparison among them and other distributions. 
+This blog explains the reason and gives a comparison among them.
 The comparison focuses on three aspects, policy, usability and packaging.
 
 ## Policy

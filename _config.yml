@@ -3,13 +3,21 @@ email: maedaqu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A serial of blogs focused on programming, math, linguistic.
 
-baseurl: ""
+domain: chu-mirror.github.io
 url: "https://chu-mirror.github.io"
 
 twitter_username: chu_thelast
 github_username:  chu_mirror
 
+lsi: false
+safe: true
 source: root
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Build settings
 theme: minima
