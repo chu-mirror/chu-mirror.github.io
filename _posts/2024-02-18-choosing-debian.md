@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reasons of choosing Debian"
+title:  "Reasons of Choosing Debian"
 date:   2024-02-18 12:10:03 +0800
 categories: style
 ---
