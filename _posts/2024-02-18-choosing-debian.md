@@ -11,7 +11,7 @@ Debian might be the most promising choice for me.
 This blog explains the reason and gives a comparison among them.
 The comparison focuses on three aspects: policy, usability and packaging.
 
-## Policy
+# Policy
 
 There exsists predefined settings and conventions in all software about how to use them,
 which are called policy.
@@ -43,7 +43,7 @@ policies themselves.
 The point here is to balance the effort that you must do to fix the "wrong" default behaviours
 and the effort that you build your own policies. For me, all excepts Ubuntu is good.
 
-## Usability
+# Usability
 
 The assessment of usability is based on two criterias, how many programs it ships, and how many
 devices it runs on. I will just give my opionion here.
@@ -57,7 +57,7 @@ It's possible to use Slackware in any situation and run any program on it, but t
 I have an ongoing embedded system project, and if possible, I'd rather choose a distribution
 that I can use both as desktop and in production environment; Debian wins here.
 
-## Packaging
+# Packaging
 
 This is a big topic, maybe next time.
 
