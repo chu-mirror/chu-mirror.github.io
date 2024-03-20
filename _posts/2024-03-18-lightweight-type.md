@@ -112,7 +112,7 @@ that we gonna put under consideration; the value for the employee in that case i
 and _'s name_ is a dereferencing of a pointer, it even doesn't have to be a C function.
 I will give my reasons of not using pointers for values, but just continue the implementaion for now.
 The hash table created in the previous paragraph serves only for a single
-function, so a centrical memory management is not desirable here.
+function, so a centralized memory management is not desirable here.
 A seperated method should be used to modify that hash table. Because the name of employee is part
 of the value of employee, we can bind this method with the computing of hash value.
 I use the term _method_ even it doesn't differ from function for the form in a C program;
@@ -150,7 +150,7 @@ easy to get the same effect in C programs too.
 
 _Add support for statements linearly_. As the example of adding support for statement _employee X's salary is N_
 shows, the new concept _salary_ and new function _'s salary_ is added to the program without modifying
-exsisting code even one line. If we were using a centrical memory management, we at least had to
+exsisting code even one line. If we were using a centralized memory management, we at least had to
 modify the struct to get enough memory.
 
 _Support polymorphism for free_. Employees might differ in some minor ways; here's an example,
